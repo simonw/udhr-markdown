@@ -1,4 +1,4 @@
-# UDHR Markdown
+# Universal Declaration of Human Rights in Markdown
 
 Markdown exports of the [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) translations extracted from the [udhr npm package](https://www.npmjs.com/package/udhr).
 
