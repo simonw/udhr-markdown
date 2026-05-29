@@ -1,0 +1,179 @@
+---
+code: fuv
+name: Fulfulde, Nigerian
+title: NANONDIRAL WINNDEREYANKEEWAL HAKKEEJE AADE
+bcp47: fuv
+iso6393: fuv
+direction: ltr
+stage: 4
+latitude: 11
+longitude: 11.12
+article_count: 30
+complete: true
+source:
+  package: udhr
+  version: 6.0.0
+  path: declaration/fuv.html
+ohchr: fum
+---
+
+# NANONDIRAL WINNDEREYANKEEWAL HAKKEEJE AADE
+
+## NAATIRKA
+
+E tuugnaadeko wonde keftingal horma kala neɗɗo e nder ɓesngu aadee e hakkeeji potɗi woni dnaɗɗuudi ndimaague potal e jam e nder aduna,
+
+E tuugnaade wonde ko baasgol heftinde kam e calogol tottude hakkeeji aade ngaddi barondiral e salaare sanndolin nde e nder aduna e kadihuccande adunam mo aade heɓi yamiroore haalde e miijiaa de no henanorii ɗum yontii ete kadi yimɓe poti jeyde koye mumen ceerta e kulol e baasal sabu aadee yiɗde ɗ um,
+
+E tuugnaade wonde ina teeŋti yo hakkeeji aadee ndeenire yamiroore laawɗinaande mbele aadee waasaa tonngeede e gullitaagol dowrowol so tawii fawaama kalfaandi kiisndi walla waawnere ɓ urtunde,
+
+E tuugnaade ina teeŋti nde ɓamtatoo ɓiyngu yummaagu hakkunde leyɗeele dimɗ uɗe,
+
+E tuugnaade e nanondiral leyɗeele caaktangal woondoore leyɗeele jowitiiɗe e hakkeeji gadani aadee bayɗi no ndimaagu, teddungal e nder potal rewɓe e worɓe. Leyɗeele ɗee koddirii e daranaade ɓamtaare renndo e ñiɓgol fannuji nguurndam moƴƴam,
+
+E tuugnaade e wonde leyɗeele dentuɗe jeytiiɗe ɗee, e ballondiral e fedde leyɗeele dentuɗe jeyɗe koye mumen pellitii ñiiɓnude horma hakkeeji aade kam e ndimaagu,
+
+E tuugnaade e ɓulngo renndaande ngam tafde hakkeeji aadee kam e ndimaagu, leyɗeele ɗee teeŋtinii nafoore ɓurtunde wonde e pellitgol, ko ndeen batu nguu nanondiri, holliti:
+
+Ngal-ɗoo nanondiral winndere yan keewal jowitiingal e hakkeeji aadee wayi ko no laawol gootol ñii ngam yettaade leyɗeete mbele yimɓe ɓee e renndooji ɗii mbaɗa ɗum e hakkillaaji mum e kala sahaa kadi et e jannginde e nehde mbele ɓamtoo horma hakkeelleji aadee e ndimaagukuule ƴettaama mbele saree e nder leyɗeele, ciynugol ngol ina foti feeñde, teskee e yimɓ e fof.
+
+## Kuulal gadanal
+
+Innama aadeeji fof poti, ndimɗidi e jibinannde to bannge hakkeeji. Eɓe ngoodi miijo e hakkilantaagal ete eɓe poti huufo ndirde e nder ɓ iynguyummaagu.
+
+## Kuulal 2
+
+Gooto kala ina waawi hokkunde hoore mum hakkeeji e ndima guuji kaalaaɗi e nanondiralngal tawa alaa paltagol nguru, mbaydi, leñol, ɗemngal, diine, iwdi leydi walla renndo, dañal, jibinande walla kala ngonka.
+
+E ko fawtii heen hay paltoor gooto woodataa e dow yowitaade e dawrugol, ñaawoore hakkunde leyɗeele fawaade e neɗɗo ummiiɗo leydi walla neɗɗo mo yowitaaki maa woni pawiɗo yamiroore laawɗinaande waawnde wonde fof.
+
+## Kuulal 3
+
+Innama aadee kala ina jogii hakke wuurde, e hakke ndimmagu kam e hakke ndeenka e kisal hoore mum.
+
+## Kuulal 4
+
+Hay neɗɗo gooto fotaani tonngaade e maccungaa gu maccungaagu e njeeygu aadee ko ko harminaa e no waawi si foraade fof.
+
+## Kuulal 5
+
+Hay neɗɗo gooto fotaani leepteede walla fiyeede piyle jaltuɗe neɗɗaagu walla koynooje.
+
+## Kuulal 6
+
+Neɗɗo kala ina jogii hakke annditireede neɗɗaagu mum e kaayitaaji ñaawaaɗi.
+
+## Kuulal 7
+
+Yimɓe fof poti e laamu ete poti fotde ndeendka e yeeso laamu. Yimɓe fof ina poti fotndeende e reeneede e heedi heedi baawɗo yaɓɓude kule ngal nanondiral yimɓe fofina poti reeneede e tooñannge tawa alaa paltoor.
+
+## Kuulal 8
+
+Neɗɗo kala ina jogii hakke wullitaade ñaawoore e leydi mum so tawii o gañaama, o tooñaama walla so hakkeeji makko njoolaama. ɗiin hakkeeji ina ngannde e laamu e ñaawooje.
+
+## Kuulal 9
+
+Hay gooto fotaani nanngeede sokee walla yaltinee leydi tawa ko e dow mbaawka e belaaɗe.
+
+## Kuulal 10
+
+Neɗɗo ina jogii hakke e heɗeede e nder potal e sahaa ñaawoore nde yowitaaki, nde waɗataa heedi-heeda (jinngataa). ñaawooɓe ɓenguurotaako poti ñaawde hakkeji fotdeeji neɗɗo fof ko takkaa haa heɓ ni ɗum ñaawore.
+
+## Kuulal 11
+
+1. Kala neɗɗo tuumaaɗo bonannde ina foti reweede haa ko fawaa e mum ko annde ina woodi walla alaa tawa ko ñaawoore laaɗinnaande nde suuɗaaka ñaawi e tawtingol ñaawoɓe luundiiɓe heedɓe bannge ñaaweteeɗo oo.
+2. Hay gooto fawetaake bonnannde walla war ngo tawa nde waɗatee ndee waawa wonde ko teeŋti e mum e yowitaade e laawol leydi walla laawol hakkunde leyɗeele. Ko noon ne hay gooto fawetaake sariya baɗɗo huunde tawa nde waɗetee ndee o jotondiraani heen.
+
+## Kuulal 12
+
+Hay gooto yaɓɓetaake, tooñee e nder nguurndam mum, e nder ɓesngu mum e nder jotondiral mum walla neɗɗaagu mum lesɗinee, naange hay gooto e dowlugol mum potaani ñifeede. Neɗɗo kala ina jogii hakke reenaneede ɗee geɗe teeŋtinooji ndimaagumum.
+
+## Kuulal 13
+
+1. Neɗɗo ina jogii hakke yahde ɗo welaa fof e no weliraa fof kam suɓaade hoɗannde mum e nder leydi.
+2. Neɗɗo ina jogii hakke yaltude leydi kala hay so tawii ko ndi makko kam e artude e leydi mum.
+
+## Kuulal 14
+
+1. E sahaa kulol, neɗɗo kala ina jogii hakke ƴeewde moolaare e dañde leydi moolndi ɗum e goɗɗe ɗee.
+2. Oo hakke noon waawaa fawaade e warde hoore doga ƴeewa moolɗo ɗum, o waawi fawaade tan ko e jamirooje fedde leyɗeele dentuɗe.
+
+## Kuulal 15
+
+1. Neɗɗo kala ina jogii hakke jeyeede e leydi, woni jogaade ngenndi.
+2. Hay gooto waawaa e dow belaaɗe haɗeede jogaade ngenndi walla waylude ngenn di.
+
+## Kuulal 16
+
+1. Caggal nde neɗɗo dañii duuɓi kelliƭuya so ko o debbo, so ko o gorko faltaa ki leñol, nguru, leydi ono jogi hakke resde maa reseede, o darna fooyre. Ko kamɓe poti heen hakkeeji jowitiiɗi e dewgal so ina humee walla so ina ittee (goorko e dewbo).
+2. Dewgal fawii ko e yiɗde resondireeɓo ɗiɗo ɓee wonaa ina fawee e waawnere.
+3. ɓesngo ko kam woni tergal gadanal e nder rendo ɓesngu inajogii hakke ndeenka immoraade e renndo kam e laamu leydi ndii.
+
+## Kuulal 17
+
+1. Kala neɗɗo walla dental yimɓ e ina jogii hakke e jeyal leydi.
+2. Hay gooto fotaani e amdu e waawde haɗeede jeyi mum.
+
+## Kuulal 18
+
+Kala neɗɗo ina jogii hakke ndimaagu miijo, hakkilantaagal kam e diine. Oon hakke ina roondii ndimaagu waylude diine kam e ndimaagu tabitinde diine mum walla yi yannde mum kañum gooto walla e wondude e woɗɓe. Ngaal tabitinal diine noon ina nona ko ɗuuɗii e ko feeñi fof tawa ko rewneede e dow jaŋde, walla dewal walla jamirooje diina oo.
+
+## Kuulal 19
+
+Neɗɗo ina jogii hakke e ndimaagu jogaade miijo e saaktude miijo mum ɗum firti ko joom mum fotaami hulde feeñninde miijo mum walla wiɗtude, heɓde kam e sarde miijooji e kabavuuji tawa woƴaaki keeri hakkunde leyɗeele e no sardaa fof.
+
+## Kuulal 20
+
+1. Neɗɗo kala ina jogii hakke e ndimaagu waɗde batu walla fedde nde wonaa fitina.
+2. Hay gooto fotaani waawneede jeyeede e fedde alay sago.
+
+## Kuulal 21
+
+1. Neɗɗo kala ina jogii hakke e jeyeede e terɗe gardiiɗe leydi mum. Tawa ko kañum e hoore mum walla tawa ko waabaade e ɓe yimɓe e cuɓii ina njooɗ añii leydi sabu joñeede geɗe mum.
+2. Neɗɗo kala ina jogii hakke ardineede walla joñeede geɗe/golle leydi e dow potal.
+3. Muuyaande leydi ndii ko ñiɓgol kalfaandi laamuuji ɗii. Ndiin kalfaandi ñiɓortoo tan sosde wooteeji cuɓoo suɓngo laaɓngo e leydi kala, tawa cuɓotoo ɗo kala ina tottee ndimaagu mum timmungu.
+
+## Kuulal 22
+
+Neɗɗo kala e nder renndo ina jogii hakke e ndeen ka renndoyankeewo. ɗumko weltaare hakkeeji fagguduyankoj e renndoyan heeji e pina yankooji katojinaa ɗi e ndimaagu e ɓamtaare aade e dow tuugnaade e ngonka leydi fof.
+
+## Kuulal 23
+
+1. Neɗɗo kala ina jogii hakke liggaade e dow potal hujjiaaji liggeey e ndeenka baasgol gollaade.
+2. Yimɓe fof poti fotde njoɓdi so tawii ɓe potii liggeey.
+3. Kala liggiɗo ina jogii hakke njoɓ di fotndi heen, njondi mbaawndi jogaade mo kaŋko e ɓesngu makko mbele njogoo ngonka moƴƴa tedduka. Njoɓdi ina haani timminireede catiiɗe renndoyankooje.
+4. Neɗɗo kala liggotooɗo ina jogii laawol tafde fedde wullitaare hakkeji liggeey walla yantondirde fedde liggotooɓe mum e pedle goɗɗe liggotooɓe so tawi eɗe ndenndi ngoƴ aaji e anniya.
+
+## Kuulal 24
+
+Neɗɗo kala ina jogi hakke e fooftere walla weltinde ɓernde num walla wooda ɗo haa’ɗni liggeey mum ete kala liggotooɗo ina jogii hakke e fooftere yoɓ eteende.
+
+## Kuulal 25
+
+1. Neɗɗ kala ino foti jogaade hakke nguurndam cemorɗam haa waawaa toppitaade cellal mum, ngonka mum eka ɓesngu mum haa teeŋti e nguura, koɗlci, safaara e geɗe renndo; omo jogii hakke e ndeenka so tawii o liggaaki, walla o sellaani ma walla o jodtaa de e doole mum, walla kes jooɗiiɗo, naywuɗo walla kala geɗe baasooje wallitde nguura ɗe pawaaki e bellanteeje.
+2. Jibinaaɗo debbo e sukaaku ina njogii hakke ballal e toppitaagol keeriiɗi. Sukaaɓe fof, woni a jibinaaɓe e nder dewgal walla caggal dewgal poti fotde to bannge ndeenka renndoyankeewo.
+
+## Kuulal 26
+
+1. Neɗɗo kala ina jogii hakke jaŋde jaŋde foti wonde ko nde alaa njoɓdi hay sinna ko to arwaniire e gadanal. Jaŋde sukaaɓe ina foti wonde alay sago. Jaŋde karallaagal ina foti huɓtidin’de: jaŋde toownde ina foti udditanaade moni kala taw alaa heedi-heeda, tawa ko e baawal mum.
+2. Jaŋde foti ko feertinde neɗɗankaagal, ɓeyda teddin’de hakkeeji innama Aadee, heɓde hoore mum. Ina foti waalitde paamondiral, muñundiral, cehilaagalhakkunde leyɗeele e kala senngooji leƴƴi walla diineeji, fawitii heen ɓamtaare golle dowlaaji dentuɗi ngam moƴƴere ina duumoo.
+3. Jibinaaɓe ina poti suɓaade hol fannu jaŋde ndokkata sukkaaɓe mumen.
+
+## Kuulal 27
+
+1. Neɗɗo kala ina waawi e sago mum jeyeede e ɓamtugol pinal rennde mum, huutoroo ñeeñe e wallitde ɓamtaare ganndaliyankeewal e kala ɓure jaltooje heen.
+2. Neɗɗo kala ina jogii hakke ndeenka muuyaaɗe mum to bannge neɗɗankaagal e jawɗi tuugniiɗe e ɓulgno ganndal, coñce, ñeeñal ɗe o tafi.
+
+## Kuulal 28
+
+Neɗɗo kala ene foti daranaade ñiɓagol hakkeeji innama aadee kam e ndi maagu mum to bannge renndo e nder winndere mbele kuule kaalaaɗe ender ngalɗo nanondiral njetto faandaare toɗɗaande nde.
+
+## Kuulal 29
+
+1. Innama aadee ina jogii hujjaaji fayde e renndo ngo ngannduɗaako ɓamtaare huuɓtidinde neɗɗankaagal makko tan waawi wootde.
+2. E nder kuutorogol hakkeeji makko kam e naftorogol ndimaagu makko, moni kala fawaa e mum tan ko ɗooftogol sarɗiyeeji ngam teeŋtin’de keftingol e nehtanagol hakkeejie wodɓe ngam timminde neɗɗaŋ kaagalngam geɗe denndaande kam e ngonka moƴƴa kuuɓtidinɗo ngam dañje renndo potal.
+3. Ɗii hakkeeji e nguu ndimaagu mbaawa dañeede e dow luundaare paandaalee muuyaabe dowlaaji dentuɗi.
+
+## Kuulal 30
+
+Hay kuulal gootal gummingal e ngal ɗo nanondiralfotaani jaggireede ummii ko e leydi, walla dental keeringal, walla neɗɗo keeriiɗo. Hay neɗɗo gooto, walla dental walla leydi potaani jogaade golle tawa faandaare mumen ko firtude hakkeejie e ndimaagu kalaaɗi e nder nanondiral ngal.

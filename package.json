@@ -1,0 +1,14 @@
+{
+  "name": "udhr-markdown",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "udhr": "6.0.0",
+    "yaml": "^2.7.0"
+  }
+}

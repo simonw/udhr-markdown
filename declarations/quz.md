@@ -1,0 +1,173 @@
+---
+code: quz
+name: Quechua, Cusco
+title: PACHATIN LLAQTAKUNAPI RUNAQ ALLIN KANANPAQ JATUN KAMACHIKUY
+bcp47: qu
+iso6393: quz
+direction: ltr
+stage: 4
+latitude: -14.09
+longitude: -71.77
+article_count: 30
+complete: true
+source:
+  package: udhr
+  version: 6.0.0
+  path: declaration/quz.html
+ohchr: quz
+---
+
+# PACHATIN LLAQTAKUNAPI RUNAQ ALLIN KANANPAQ JATUN KAMACHIKUY
+
+Pachantin ayllu wawaq allin kausaypi kananta yuyaykuspan, kay kamachikuy paqarin. Runaq kausay qasi kusi kausaypi kananpaq, tukuy llakipi kaspapas "justicia" taripananpaq. Kikin runakayninta runa masinkunawan reqsichispa kausananpaq.
+
+Runaq runa kayninta sarunchasqata rikuspan, wakin ima mil lay salqa runakunaq runa masinta ku'muchisqanta, waqachisqanta rikuspan, kay ancha sut'i kamachikuykuna rikhurin, ashwan allin, ashwan sumaq kausay runaq taripananpaq; mana imamanta manchakuspa, mana yarqayta muchuspa, sut'i simipi rimarispa qasi kausaypi kananpaq.
+
+Runapaqpuni tukuy ima allinkunapas kamasqa karqan. Chay kamasqa kasqanta reqsispan; "derechon" kasqanta yachaspan kay simikuna kamakun qharipas warmipas kushkachasqalla kausanankupaq, sapa p'unchay ashwanta jananchakuspa. Kausanankupaq: paykuna ukhupipas, llapa ayllu runa uldiupipas, sapanka runataqmi tukuy llakimanta qespisqalla purikunan, llapa "mundo" pachantinman qasi kausay mast'arikunanpaq.
+
+Teqse muyuntin "munduq" "estadonkuna" juñuykunakuspan, ancha allinta rimanakunku "Organización de las Naciones Unidas" sutita churaykukuspa. Jina sumaqta, allinta yuyayukuspataq, ruwaspataq, juq sonqolla kamachinakunku yanapanakunankupaq, runaq runakayninta, qespesqa kayninta, tukuy "derechunta" junt'achinankupaq.
+
+Chay rimasqanku junt'akunanpaqtaqmi, jatun "Asamblea" nisqa, ancha sut'inta qowanchis kay "Declaración Universal de los Derechos Humanos" qelqapi, llapa llaqtakuna ch'ullallata yuyaykuspa runaq allinkayninta tajyachinanpaq, chay allin kamachikuy simikuna junt 'akunanpaq.
+
+Kaqllataqmi reqsichina, yachachina qhipa wiñay runamanpas, waynakunamanpas ashwan allinta paykuna junt'achinanpaq ashwan allin yuyaytawanpas yapanankupaq, kikin "nacion-ninkupipas", pachantin nacionkunapipas.
+
+JATUN RIMANAKUYPI CHANINCHASQA KAMACHIKUY
+
+## JUQ ÑIQEN (1)
+
+Llapa runan kay pachapi paqarin qispisqa, "libre" flisqa, allin kausaypi, chaninchasqa kausaypi kananpaq, yuyayniyoq, yachayniyoq runa kasqanman jina. Llapa runamasinwantaqmi wauqentin jina munanakunan.
+
+## ISHKAY ÑIQEN (2)
+
+Kay jatun kamachikuyqa llapa runapaqmi, qasilla qespisqalla purikunanpaq, pipas kachun, mistipas, runapas, yuraqpas yanapas; warmipas, qharipas. Taytachakuna mamachakunapi i-ñiqpas. Pacha Mama yupaychaqpas; imayna yuyaykuq runapas. May llaqtayoqpas; wajchapas, qhapaqpas.
+
+## KINSA ÑIQEN (3)
+
+Llapan runan kausaypachapaq kamasqa, mana piqpa rimapayasqantaqmi purikunan kausanan p 'unchaykama.
+
+## TAWA ÑIQEN (4)
+
+Manan pipas runaq chitasqan kamachipi puriyta atinchu. Runawan yanachikuyqa unayñan tukukapun, kay "Declaración de los Derechos Humanostaq" chaninchan chay tukukuyninta, wiñaypaq. Yanachikuyqa qonqaypachaman churasqan kapun.
+
+## PHISQA ÑIQEN (5)
+
+Manan pipas, peqpapas, k'irisqan, muchuchisqan, k'umuchisqan kananchu.
+
+## SOQTA ÑIQEN (6)
+
+Llapa runaq "derechunmi", maypipas runa jina "respetasqa" kananpaq.
+
+## QANCHIS ÑIQEN (7)
+
+Leypaq-qa, jatun kamachikuypaq-qa llapa runapas kikillan, "igual-lían kanchis; mana pitapas ajílaspa, mana pitapas t'aqarparispa.
+
+## PUSAQ ÑIQEN (8)
+
+Llapa runapaq churasqan sapanka "nacionpi", jatun llaqtapi "tribunalkuna", "leywan", "amparakunanpaq" piña mayña runakayninta sarunchayta munaqtinpas.
+
+## ISQON ÑIQEN (9)
+
+Manan pipas yanqa qasinmantaqa muchuy wasipi wesq'asqapas, Ilaqtanmanta qarqosqapas kayta atinchu.
+
+## CHUNKA ÑIQEN (10)
+
+Llapa runapas, imamantaña juchachasqa kaspapas, "tribunalpa" uyarisqanmi kanan; chayman jina juchayoq kasqanpas, mana juchayoq kasqanpaq yachakunanpaq.
+
+## CHUNKA JUQNIYOQ ÑIQEN (11)
+
+1. Jayk'an juchachasqa runaq-qa, kanmi "derechon" manan juchayoqcho kani, ninanpaq "justicia" taripanankama.
+2. Allin ch'uyaman "justicia" chayaspa, ima muchuymanpas churana, juchanman jina.
+
+## CHUNKA ISHKAYNIYOQ ÑIQEN (12)
+
+Manan piqpa imayna kausakusqantapas tapupakuyta atinchischo. Manataqmi imaynatas warminwan, wawankunawan tiyan chaytapas yachayta munananchischu. Manan runaq allin kasqanta, "honranta", allin runa kasqanta panpachanachu; Chaykuna ruwasqamantaqa "leymi" muchuchinan. Chay tukuywanpis, manan pipas qelqa apachisqanchista, "carta" chaskinanchista pakallapi, mana yachasqanchis "liita" yachayta atinchu. Llapa runan chay mana chaninmanta "libre" l:anan, "leypa" "protejisqan
+
+## CHUNKA KINSAYOQ ÑIQEN (13)
+
+1. Llapa runan may munasqantapas purikunan, tiyananpaqtaq may llaqtatapas, may cheqastapas aj llakunan.
+2. "Nacion-ninmanta" lloqsispapas kaqmi kutiykampuyta atillantaq.
+
+## CHUNKA TAWAYOQ ÑIQEN (14)
+
+1. Cheqnisqaña, qatiykachasqaña kaspapas, piqpa wasinpipas, maypipas pakuykukuyta atinmi, may "nacionpipas", may llaqtapipas, may cheqaspipas.
+2. Manan "común" juchayuqman aypanchu kay "derecho".
+
+## CHUNKA PHISQAYOQ ÑIQEN (15)
+
+1. Llapa runakunaq "derechunmí juj nacionalidadniyoq" kay. Llapataqmi mayqen naciontapas tiyananpaq ajllakuyta atin. Chaymantaqa manan pipas jark'akuyta atinchu.
+2. Manataqmi pipas, maypas "nacionalidadninchista" qechuyta atinchu, nitaq juj "nacionalidad" aj llakunanchista tatichiyta atinchu.
+
+## CHUNKA SOQTAYOQ ÑIQEN (16)
+
+1. Qharipas warmipas junt'asqa watanman chayaspaqa "casarakuyta" atin piwanpas maywanpas, mana piqpa jark'akusqan, yuraqwanña yanawanña, paykuna pura tinkuku, munanakunku chayqa.
+2. Warmi qhari wawakunantin tiyaspataqmi allin rimanakuypi tiyananku, kikin "derechuyoq" juj sonqolla tiyaspapis, t'aqanakuspapis.
+3. &1
+
+## CHUNKA QANCHISNIYOQ ÑIQEN (17)
+
+1. Llapa runaqmi kanan jallp'apas, wasipas, tukuy ima kausaypas, pay sapanpa, llank'ananpaqpas, wakipi llank'ananpaqpas.
+2. Manan piqpa kaqninpas qechuy atikunchu.
+
+## CHUNKA PUSAQNIYOQ ÑIQEN (18)
+
+Llapa runan yuyaykukuyta, jamut'ayta atin yuyaychakusqanman jina. Manan pipas chaytaqa jark'ayta atinmanchu. Kaqtaqmi ima "religionpipas" kausayta atin tukuy runaq yachashasqan.
+
+## CHUNKA ISQONNIYOQ ÑIQEN (19)
+
+Tukuy runapas umanpi yuyaykusqantan rimarinan manapitapas manchakuspa. Yuyaykusqantataqmi pachantin runaman, teqsi muyuntin, lluy "munduntin" runaman riqsichinan yachananpaq. Sut'in rimaqtan pacha kamaq taytachapas yanapan. Chay yuyaykukusqanmantaqa, ruwasqanmantaqa manan pipas cheqniytapas, juchachaytapas atinchu.
+
+## ISKAYCHUNKA ÑIQEN (20)
+
+1. Pi runapas, may runapas juñunakuytaqa atinmi. Runa juñunakuyqa kananpunin; allin rimanakuypaq, sumaq rimanakuypaq-qa.
+2. Ichaqa, manataqmi pipas tanqasqaqa, mat'isqaqa, ima juñunakuymanpas jaykunanchu.
+
+## ISKAYCHUNKA JUJNIYOQ ÑIQEN (21)
+
+1. Llapa runapas atinmi llaqtanta "nacionninta" kamachiyta; chaypaq ajílasqa, chaypaq churasqa kaspaqa; pay kikinpas, mashki mink'anta churaspapas.
+2. Kushkallan llapa runapas kanchis, llapataqmi kamachikuq kaytapas atinchi Llaqtaq munayninmi kamachikuqtaqa jurqon, llapa runamante jujta ajílaspa sumaq jatun rimanakuypi, "eleccionispí ajílaspa.
+3. &1
+
+## ISHKAY CHUNKA ISHKAYNIYOQ ÑIQEN (22)
+
+Llapa runan, imaynan kausasqanman jina llaqtanwan, "nacionninwan" qochikunan mikhuytapas, tukuy ima kausaytapas; yachaytawanpas, yachayninman yapananpaq, chaywantaq jananchasqa runa kananpaq.
+
+## ISHKAYCHUNKA KINSAYOQ ÑIQEN (23)
+
+1. Llapa runapaq kamasqan llank'ayqa, sapanka runataqmi ajllakunan iman munasqan llank'ayta.
+2. Tukuymi llank'ananpaq yanapasqa kanan. Yanqa, qasi kaytaqa mana runa atinchu. Runaqa chanintan, llank'asqanman jina chaskinan "salariontaqa".
+3. Llapa runan chaskinan kallpanpa chanintaqa, paypa kausananpaq jina; warminpa, wawankunaq kausananpaq jina. Manachaytaqmi llaqta runa yanapanan.
+4. Tukuy runan "sindicato" "organizayta" atin; jinallataq "sindicalizado" "derechun" "respetachinanpaq".
+
+## ISHKAYCHUNKA TAWAYOQ ÑIQEN (24)
+
+Llapa llank'aq runapaqmi samana p'unchayqa churasqa. Kikillantaqmi, kaqllataqmi "vacaciones" ñisqa, sapa wata aslíapas juj killa samayniyoq kanan mana llankaspa "pagasqa".
+
+## ISHKAYCHUNKA PHISQAYOQ ÑIQEN (25)
+
+1. Llapa runapaqmi kanan allin kausay, kaqllataq warminpaqpas, wawankunapaqpas. Kananmi mikliunanpas, wasinpas, p 'achanpas; kanantaqmi janpiqnin "medicupas". "Seguro Socialpas" kananmi paypaq-qa mana llank'ayta atiqtin, onqoqtin; warmin wañuqtin, ima llakipiña kaqtinpas.
+2. Wachakoq warmiqa rikusqan qhawasqan kanan. Wawakunapas kaqllataqmi kanan; "Casadoq" wawanpas, mana "casadoq" wawanpas.
+
+## ISHKAYCHUNKA SOQTAYOQ ÑIQEN (26)
+
+1. Tukuy runapaq churasqan "escuela", "colegio", "educación", llapataqmi chaykunata chaskinan mana qolqellamanta.
+2. Jatun yachaywasimantaqmi jaykunan ashwan umayuq, yuyayniyoq, jamautayoq jina.
+3. "Educacionqa" llapa runaq ashwan allinruna kananpaqmi, llapa runamasintin munanakunanpaqmj, maymantaña kaqtinpas, may llaqtayuqña kaqtinpas.
+
+## ISHKAYCHUNKA QANCHISNIYOQ ÑIQEN (27)
+
+1. Llapa runan reqsinan jatun yachayniyoqpa yachayninkunata, chaymi "ciencia" nisqa, llapan reqsinan tukuy sumaq ruwaykunata: "artes" sutiyoq.
+2. Llapa runan yachanan, aypanan jatun yachay, kausay yachay, ashwan jatun "filosofía" nisqa jamutay kuraq yachayta.
+
+## ISHKAYCHUNKA PUSAQNIYOQ ÑIQEN (28)
+
+Sapanka runan munannanchis kay jatun kamachikuy simikunaq juntakunanta, llapa pachantin, "munduntin" llaqtakunapi.
+
+## ISHKAYCHUNKA ISHQONNIYOQ ÑIQEN (29)
+
+1. Ayllunchispi kausaq runataqa, llaqtanchis runataqa, anchatan, munana, yupaychana; ayllun, llaqtan sapanka runatapas uywawanchis, wawanmi kanchis.
+2. &1
+3. &1
+
+## KINSACHUNKA ÑIQEN (30)
+
+Kay jatun kamachikuy simikunaqa manan juj runallapaqchu; manataqmi "nacionkunaq" kamacheqkunallapaqchu, llapa runaq allinninpaqmi, pachantin llaqtakunapitaqmi junt'akunan.

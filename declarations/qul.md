@@ -1,0 +1,163 @@
+---
+code: qul
+name: Quechua, North Bolivian
+title: KAY TIKUYRUNAJ PAJTACHAY KAWSAYNINPATA RIMARIYNINQA
+bcp47: qul
+iso6393: qul
+direction: ltr
+stage: 4
+latitude: -14
+longitude: -68
+article_count: 30
+complete: true
+source:
+  package: udhr
+  version: 6.0.0
+  path: declaration/qul.html
+ohchr: qul
+---
+
+# KAY TIKUYRUNAJ PAJTACHAY KAWSAYNINPATA RIMARIYNINQA
+
+tukuy ayllu tiyakujkuna, llajtakunapiwanqa, uj yuyayllwan kallpachakuna tiyan, sapankupis, jinal lataj llank’aj ukhupi kajkunapis, paykunata yanapaspallapuni, yachaqakuykunapi yachachispa, allin uyarikuyniyuj kayta qheshpichachikuykunatawan, pisimanta pisi uj llajtamanta jawa ilajtakunkama mirananpaj, chay junt’achilynin tukuyliapj, mana pita qonqaspa, karu Ilajtakunaj ayüunkupajpis, chaykunaj kamachinpi karashnku chaykunapajpis.
+
+## Rak’ik 1
+
+Tukuy paqarikuj runaqa payllamanta mana pijpa kamachinpi kanapaj paqarikun nakuynin, uyarinakuynin, purajpapis kikiilan kanan tiyan, yuyayman jina sut’i kananta, ujpis ujkunawan, aSIin kawsaypi kakunankupaj.
+
+## Rak’ik 2
+
+Runaj rimariyninman jinaqa tukuy runaj qhespi kaynin, chayaqen kashan imaymana panakayujpis kachun sawqayay, qharipis, warmipis, siminraykupis, ininiyninraykupis, lloq’eman q’emijpis kachun, panaman qemijpis kachun, wajkunamantapis, maymantapis kachun, mashkha qoiqe kapuyniyojpis kachun, paqarikuyninmanta, imayna paqaarikujpis, kachun.
+
+Chantapis, mana qhawarayqa kananchu tiyan, mayqen polikamanpis q’emichun, kamachiman jina, mayqen sispa karu liajtamantapis kamachichinqa kachun, uj Ilajtallamantapis, kachun, manari, mayqen llajtallamantapis qolqe manukuchun, mana paypaj nisqalian, manaqa wakjunaj kamachisqanrayku.
+
+## Rak’ik 3
+
+Pillapis kay kawsaypiqa, qhispisqataj, waqaychasqataj kawsakunan tiyan.
+
+## Rak’ik 4
+
+Mana pipis saruclY asqaqa kananchu tiyan, mana yankunajipis, manallataj qhasiíía llank’achichiypis, yanakunajipi kachiyqa kamachijrnan jinaqa, juchamin.
+
+## Rak’ik 5
+
+Mana piipis watasqaqa maqasqapis kananchu tiyan, manallataj waqachichiypis, wanuchiypis, runa kashajtin mana phutirikuspa wanuchiypis.
+
+## Rak’ik 6
+
+Tikuy runaga, mayilapipis runa jina atillan kawsayta chayaqeyoj kayta.
+
+## Rak’ik 7
+
+Kamachiman jinaqa tukuypis kikillan, yanapis kachun yurajpis kachun chayaqenpis kikillantaj. Sajra runa, mana allin ruwaykunamantaqa, tukuyíla waqaychasqa, jark’asqataj kanan tiyan, chay tukuy rimapuykunapis, runaj rimariyninman jinaqa juchamin.
+
+## Rak’ik 8
+
+Tukuy runa qolqeta mask’akuyta atin, chaymanta kamachijkunaman asuykuspa, mülay jasut’iykunamanta jark’asqa, jatun junt’achiman jina qhawaqa kanan tiyan.
+
+## Rak’ik 9
+
+Mana pipis qhasillamantaqa ja’isqaqa kayta atinchu, watay wasipi kachiy, manallataj karu llajtaman qharqoypis kanallantajchu tiyan.
+
+## Rak’ik 10
+
+Tukuy runapaj kawsaynin patapiqa ujpajpis, ujpajpis ujlia kanan tiyan, tukuy runarayku uyarisqa-, jamach’ajkunaraykupis pajtachasqa kananpaj, maychus kanaüanpi mana piman sayakuspa, kamachikuman jina, tukuy kamachiykunata junt’aspa, tapuykunawan, ch’uyallata uyapuranakuspa, junt’aspa ima.
+
+## Rak’ik 11
+
+1. Pillapis qhasillamanta tunpasqa kaspaqa, sut’inchayta mana jina kasqanta sut’inchayta atin, tapujkuna juchanman jina juchachayta atin, manaqa manapis, kamachiman jina runaj qhawananpi sut’inchasqa kanan tiyan, chayman jina sapa ujpis jiwiqayninta mask’ananpaj, chaykamataj mayllapipis sut’ita purikunaiian tiyan.
+2. Imapi juchallikuspaa, manaraj maychus kajta yachasparajqa, mana pipis kasqanta yachasparajtajqa, mana pipis wanaykunata, muchuykunatajunt’achiyta atinchu, chayata llajtaj kamachin qhawanan tiyan manaqa tukuy llajtakunajta chay panpachaykunapis manallataj manaraj allinta ukhunchaykurishajtinkuqa, kallpaliawan sinch’i wanaykunata qonankuchu.
+
+## Rak’ik 12
+
+Runaj kawsayninpi, ayllun, wasin maypi tiyasqan imapiqa, mana pipis rimapayasqaqa, chijnipayasqapis kayta atinchu, Kamachiman jina tukuyíla waqaychasqa kanan tyyan, c h’aj waraymanta, manaqa muyuykachasqamantapis, mejnuykukunankumanta chayri ch’allparaykushanankunantaqa.
+
+## Rak’ik 13
+
+1. Maylíapipis tukuypis puriykachakuyta atiílan mayqen ilajta, mayqen suyulianpipis, mask’arispa líajtachakuytan atin, mana pipis jark’ayta atinchu.
+2. May llajtapi kashaspapis runaqa, waj üajtaman üojsiytaqa atiilantaj, llajtallanmantatapijpis atillan liajtaílanmantajpis kutiykapuyta.
+
+## Rak’ik 14
+
+1. Pillapis qhatiykachasqa rikukuspaqa, maypi tiyakunanpaj mask’ayta atin, chaypi wasinpi jina allinta kawsakunanpaj, may llajtallapipis.
+2. Kay chayaqeqa, mana pijpa kallpallanwan kamaachiqa kamachisqaqa kananchu tiyan, mana ch’ajwaywan q’eqontaykusqa, mana qhesachasqa kanan tiyan tantasqa Ilajtakunaj kamachi rimariyninrayku.
+
+## Rak’ik 15
+
+1. Tukuy runalla llajtayuj atin kayta.
+2. Mana pitapis llajtayuj kajtajqa qharqoytaqa atinmanchu, manallataj waj llajtaman kachaytapis.
+
+## Rak’ik 16
+
+1. Qharipis warmipis, na sawarakunanmanna chayaspaqa, sawarakapuyta atin, imayna panakayujpis kachun, may lljtayujpis, manaqa ininiyniyujpis, mana pi jark’ayta, kamachiytapis atinchu, chayrayku ayllunchakapuyta atin, allin kawsaypi purajmanta kawsakunankupaj, mana allinfa kawakuspaqa t’aqanakapuyta atinku.
+2. Qharijpa, warmijpa ari niykurininjuwan purajpis sawaranakunanku tiyan, mana pijpa nisqanraykuchoqa.
+3. Aylluqa, kay pachapi runa masiwan kawsakunanpaj, chayrayku runa masillataj yanapanan, waqaychanan tiyan, jinailataj llajta jatun kamachejpis.
+
+## Rak’ik 17
+
+1. Tukuy runa kay atin tukuy imayuj, jalllp’ayuj, wasiyuj, sapallan kaspapis, ashkha kaspapis.
+2. Mana pipis jalip’anmantapis, wasinmantapis qharqosqapa kayta atinchu.
+
+## Rak’ik 18
+
+Tukuy runa yuyayninman jina yuyaychakuyta atin, sut’i kayninmanta, ininiymaytapis, chayrayku uj inininiyuj kasshaspa, wajpipis ininillanman, yupaychanman, jinallataj ininiymanta parlayta, uypaychachiytapis, sapalla manaqa askha ukhumantapis, runa ijhupi, paykuna ukhullapis, yachachinaman jina, parlaypi ruwaypipis, aiíin yuyayta jap’inapaj.
+
+## Rak’ik 19
+
+Piiiapis munayninman jina mayllapipis parlayta atin, mana pi jark akunanchu tiyan, parlashajtiíían mana pipis pijpa rimasqanrayku ch’inyachiyta atinchu, mana pimantapis ima ruwasqanta suti yachashaspaqa imatapis paralpunachu tiyan, runanejtapis manqa mayqn nejlltapis.
+
+## Rak’ik 20
+
+1. Tukuy runa chayaqenman jina tantakuyta atin, jinaííataj mayqen qotuchakuman chinpaytapis.
+2. Mana pipis qhinalla enqhaykusqaqa qotuchakumanqa chinpayta atinchu, payllamanta chinpaspa chinpanan tiyan.
+
+## Rak’ik 21
+
+1. Tukuy runa liajtanpa jatun kamachiyninpi kaysikuyta atin, pay kikin manqa runanrayku allinmanta chhijillsqa kanan tiyan.
+2. Tukuy runalla, runaj liajtanpa llank’anaman yaykuyta atin, pipajpis kikilllan kanan tiyan.
+3. Aylluy munaynillnwan purirantinkunaqa runata kamachinanpajqa kanan tiyan, chay munayqa maychus rinanpi chhijllayllwan, junt’akuyninmanqa, sapa kuti yankispa, chay chhijllayqa tukuypaj ujlla kanan tiyan, munasqankuman jina sapaila, pakayliapi chhijiiaspa, manqa imaynachá kamachi chayman jina munayniianchijwan chhijiiaspa.
+
+## Rak’ík 22
+
+Tukuy runa, runawan kawsakusqanrayku, onqurayaymanta, qoiquemanta, wanuymanta waqaychaqa atin kayta, may ilajtapipis yanapachikuspa manqa llajtanpipis, üajtaj kapuyninman jina, qotuchaku kamachiman jina, yanapachikunanpaj, chay qolqwan kawsakunanpaj, runa ukhupi, yachaykunawan, kikin kawsakuyninman jina, munasqanman jinataj nawpajman thaskirinapaj.
+
+## Rak’ik 23
+
+1. Tukuy runaqa ilank’ananpuni,tiyan, ima llank’ayüapipis, atisqanaman jina, ilank’asqanwanqa kamachiman jina, qolqeta jap’ikunanpaj, chaywan ayilunta uywananpaj, chantá, mana pipis qharqorpasqaqa kaytá atinchu, chayqa allin waqaychasqa kanan tiyan.
+2. Tukuy runa ilank’asqankumantaqa, liank’ayninkuman jina, uj rijllata qolqeta junt’achikunanku tiyan, mana ancha iiank’achiypis kananchu tiyan, maychus kajlla.
+3. Tukuy llank’aj runaqa llank’anan jawa, ayüunpaj jina yanapachikuyta atin, chaywan aliinta kawsakunanpaj, nana jina kajtinqa maskha kananman jina jaywachikapunan tiyan, chaypajqa waqaychasqa kanan tiyan.
+4. Tukuy runa sindikatuta rikhurichiyta atin, mana chinpaytapis munayninta mask’anapaj.
+
+## Rak’ik 24
+
+Tukuy runa llank’aytawanqa samakuyta atin llank’ananman jina mayuk’a unayllatapis, jinaílataj samakunanpunipis, qolqe junt’apusqa kanan tiyan.
+
+## Rak’ik 25
+
+1. Tukuy runalla wajkunaj kawsayninkuman jinallataj kawsakuyta atin, ayliunpis, onqorayaymanta, mikhunamantapis astawanpuniqa umikunamanta, p’achallikuymanta, wasiyoj kanamanta, janpichikuj ri nan manta, i maku natachá, munanman, chaykunamantawan, jinallataj manana machitumanta, sayk’usqamanta, liank’akuyta atejtinnapks samakuyninpi qhawaqa kanan tiyan chantá jina llank’akushaspa imanta nanaykuchikojtinpis, p’akiykukojtinpis, qhawaqapuni kanan tiyan thanikunankama.
+2. Mama kaspá, erque kaspapisqa, qhawajkunawan allin qhawasqa kanan tiyan, sapa sapitapi, yanapaykunawan ima.Tukuy wawa sawarakuy ukhupi paqarikuy manqa mana sawarakuy ukhupipisqa, chayaqen, waqaychayninpis ujila kanan tiyan.
+
+## Rak’ik 26
+
+1. Tukuy runa yachaqachisqa kayta atin. Chay yachachiyqa mana qolqenraykullachu kanan tiyan, astawanpuniqa naawpaj nequenkunapi. Nawpaj neqenkunapi yachaqakuyqa, yachachisapuni kanan tiyab. Makiwan yachachiy, yachayniyojkanankamapis, tukuypaj kanan tiyanb,jatun yachaywasikunamampis atisqankuman jina.
+2. Yachachiyqa, kawsayninpi aI!in kananpaj kanan tiyan, tukuy runamasinta ailinpi qhawananpaj, qheshpisca kananpaj ima, tukuy llajtakuna ukhu parlapayarinakuspa, suyarinakuspa, ayilu ukhupi manqa ininyninpipis, chayman jina tukuy llajtakunata nawapajman llank’aspa purichinanjupaj,al!in kawasay kananpaj.
+3. Tata mamaqa i m ay nata wawankuta yachachinataqa, atinku mask’aysispa yanapayta, layan yachaqayman jina.
+
+## Rak’ik 27
+
+1. Tukuy runa ayllujpa yachaynintaqa ailinpi qhawarispa kawsaysikuyta atin, tukuy ruwayninkupi kawasaysikuspa, qhepa kawsay allin kananta yuyaspa, musoj, yuyakunata suyaspa.
+2. Tukuy runa, imayna,yuyaynin kasqan munayninman jina, qhawasqa waqaychasqataj kanan tiyan, allin musuj yuyaykunata mask’aspa, paypaj, jamawt’a yuyaynin kasqanrayku, llakiypipis, kusirikuypipis.
+
+## Rak’ik 28
+
+Runaj qhapariyninman,jinaqa,tukuylia kamachita junt’ana tiyan may Ilajtallapipis, purajmanta allin kananta uyarinakuspa.
+
+## Rak’ik 29
+
+1. Tukuy runa llajta ayllutaqa, allinpi qhawaspa uyarinan tiyan, tukuy imata uyarispa, jinamanta runaqa allin kawasayta mask’aspa tiyakunanpaj.
+2. Kawaynin patapi, munayninman, qheshpi munayninman jinaqa, tukuy runa kamachiyman jina kawsanan tiyan, jinamanta mana maypipis saruch’asqa kananpaj, purajmanta qheshpichinakuspa, munayninchejman jina tukuy ima junt’asqa kananpaj, sut’i uyarinakuy, runa ukhupi, manqa mayliapipis, mana pejpa sajra kamachinwan, allinta kakuspa.
+3. Kay chayaqekunataqa, qheshpi kawsaykunatapisqa, mana pi t’ustiytaqa atinmanchu, kayqa tukuy llajtakunaj qhapariy willasqan kashan, chaylla atin imata ruwaytaqa.
+
+## Rak’ik 30
+
+Kay rimaririyqa mana llatajpa kamachiynin orqosqachu, mana wakillanpajpischuqa, mana uj runallapajpijchu, manallataj paykuna qhesachaspa chinkarichiytaqa atinkuchu, chayqa rimay qhapaririyman jina wakichisqa kasqarayku, charaqen, qhespichin, kasqanrayku ima.

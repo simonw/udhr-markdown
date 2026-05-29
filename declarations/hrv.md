@@ -1,0 +1,183 @@
+---
+code: hrv
+name: Croatian
+title: OPĆA DEKLARACIJA O PRAVIMA ČOVJEKA
+bcp47: hr
+iso6393: hrv
+direction: ltr
+stage: 4
+latitude: 45.2
+longitude: 16.83
+article_count: 30
+complete: true
+source:
+  package: udhr
+  version: 6.0.0
+  path: declaration/hrv.html
+ohchr: src2
+---
+
+# OPĆA DEKLARACIJA O PRAVIMA ČOVJEKA
+
+## UVOD
+
+Budući da su priznavanje urođenog dostojanstva i jednakih i neotuđivih prava svih članova ljudske obitelji temelj slobode, pravde i mira u svijetu,
+
+Budući da su nepoštovanje i preziranje prava čovjeka imali za posljedicu akte, koji su grubo vrijeđali savjest čovječanstva i budući da je stvaranje svijeta u kojem će ljudska bića uživati slobodu govora i vjerovanja i slobodu od straha i nestašice bilo proglašeno kao najviša težnja običnih ljudi,
+
+Budući da je bitno da prava čovjeka budu zaštićena vladavinom prava, kako čovjek ne bi bio primoran da kao za posljednjim sredstvom posegne za pobunom protiv tiranije i ugnjetavanja,
+
+Budući da je bitno da se unapređuje razvoj prijateljskih odnosa između naroda;
+
+Budući da su narodi Ujedinjenih naroda ponovno potvrdili u Povelji svoju vjeru u osnovna prava čovjeka, u dostojanstvo i vrijednost čovjekove osobe i ravnopravnost muškaraca i žena i budući da su odlučili unapređivati društveni napredak i bolji životni standard u široj slobodi,
+
+Budući da su se države članice obvezale da u suradnji s Ujedinjenim narodima postignu unapređenje općeg poštovanja čovjekovih prava i osnovnih sloboda i njihovo održavanje,
+
+Budući da je zajedničko razumijevanje tih prava i sloboda od najveće važnosti za puno ostvarenje te obveze,
+
+OPĆA SKUPŠTINA
+
+proglašava
+
+OVU OPĆU DEKLARACIJU O PRAVIMA ČOVJEKA kao zajedničko mjerilo postignuća za sve narode i sve države radi toga da bi svaki pojedinac i svaki organ društva, imajući Deklaraciju stalno na umu, težili da učenjem i odgojem pridonesu poštovanju tih prava i sloboda i da bi naprednim nacionalnim i međunarodnim mjerama osigurali njihovo opće i djelotvorno priznanje i održavanje, kako među narodima samih država članica, tako i među narodima onih područja koja su pod njihovom sudbenošću.
+
+## ČLANAK 1.
+
+Sva ljudska bića rađaju se slobodna i jednaka u dostojanstvu i pravima. Ona su obdarena razumom i sviješću i treba da jedno prema drugome postupaju u duhu bratstva.
+
+## ČLANAK 2.
+
+Svakome su dostupna sva prava i slobode navedene u ovoj Deklaraciji bez razlike bilo koje vrste, kao što su rasa, boja, spol, jezik, vjera, političko ili drugo mišljenje, nacionalno ili društveno porijeklo, imovina, rođenje ili drugi pravni položaj.
+
+Nadalje, ne smije se činiti bilo kakva razlika na osnovi političkog, pravnog ili međunarodnog položaja zemlje ili područja kojima neka osoba pripada, bilo da je to područje neovisno, pod starateljstvom, nesamoupravno, ili da se nalazi ma pod kojima drugim ograničenjima suverenosti.
+
+## ČLANAK 3.
+
+Svatko ima pravo na život, slobodu i osobnu sigurnost.
+
+## ČLANAK 4.
+
+Nitko ne smije biti držan u ropstvu ili ropskom odnosu; ropstvo i trgovina robljem zabranjuju se u svim svojim oblicima.
+
+## ČLANAK 5.
+
+Nitko ne smije biti podvrgnut mučenju ili okrutnom, nečovječnom ili ponižavajućem postupku ili kažnjavanju.
+
+## ČLANAK 6.
+
+Svatko ima pravo da se svagdje pred zakonom priznaje kao osoba.
+
+## ČLANAK 7.
+
+Svi su pred zakonom jednaki i imaju pravo, bez ikakve diskriminacije, na jednaku zaštitu zakona. Svi imaju pravo na jednaku zaštitu protiv bilo kakve diskrimininacije kojom se krši ova Deklaracija i protiv svakog poticanja na takvu diskriminaciju.
+
+## ČLANAK 8.
+
+Svatko ima pravo na djelotvorna pravna sredstva putem nadležnih nacionalnih sudova zbog djela kojima se krše osnovna prava koja mu pripadaju temeljem ustava i zakona.
+
+## ČLANAK 9.
+
+Nitko ne smije biti podvrgnut samovoljnom uhićenju, zatvoru ili izgonu.
+
+## ČLANAK 10.
+
+Svatko ima pravo da ga u punoj jednakosti pošteno i javno sasluša neovisan i nepristran sud radi utvrđivanja njegovih prava i obveza i bilo kakve kaznene optužbe protiv njega.
+
+## ČLANAK 11.
+
+1. Svatko optužen za kazneno djelo ima pravo da se smatra nevinim dok se na osnovi zakona krivnja ne dokaže na javnoj raspravi na kojoj je imao sva jamstva potrebna za svoju obranu.
+2. Nitko se ne smije smatrati krivim za kazneno djelo na osnovi bilo kakvog čina ili propusta koji nisu bili kazneno djelo prema nacionalnom ili međunarodnom pravu u vrijeme kada su bili počinjeni. Isto tako ne smije se izricati teža kazna od one koja se mogla primijeniti kada je kazneno djelo počinjeno.
+
+## ČLANAK 12.
+
+Nitko ne smije biti izvrgnut samovoljnom miješanju u svoj privatni život, obitelj, dom ili dopisivanje, niti napadajima na svoju čast i ugled. Svatko ima pravo na zaštitu zakona protiv takvog miješanja ili napada.
+
+## ČLANAK 13.
+
+1. Svatko ima pravo na slobodu kretanja i stanovanja unutar granica svake države.
+2. Svatko ima pravo napustiti bilo koju zemlju, uključujući svoju vlastitu, i vratiti se u svoju zemlju.
+
+## ČLANAK 14.
+
+1. Svatko ima pravo tražiti i uživati u drugim zemljama utočište pred progonima.
+2. Na to se pravo ne može pozivati u slučaju progona koji su izazvani nepolitičkim zločinima ili djelima protivnima ciljevima i načelima Ujedinjenih naroda.
+
+## ČLANAK 15.
+
+1. Svatko ima pravo na državljanstvo.
+2. Nitko ne smije samovoljno biti lišen svoga državljanstva niti mu se smije odreći pravo da promijeni svoje državljanstvo.
+
+## ČLANAK 16.
+
+1. Punoljetni muškarci i žene, bez ikakvih ograničenja u pogledu rase, državljanstva ili vjere, imaju pravo sklopiti brak i osnovati obitelj. Oni su ravnopravni prilikom sklapanja braka, za vrijeme njegova trajanja i prilikom njegova razvoda.
+2. Brak se sklapa samo uz slobodan i potpun pristanak onih koji namjeravaju stupiti u brak.
+3. Obitelj je prirodna i osnovna društvena jedinica i ima pravo na zaštitu društva i države.
+
+## ČLANAK 17.
+
+1. Svatko ima pravo da sam posjeduje imovinu, a isto tako da je posjeduje u zajednici s drugima.
+2. Nitko ne smije samovoljno biti lišen svoje imovine.
+
+## ČLANAK 18.
+
+Svatko ima pravo na slobodu misli, savjesti i vjere; to pravo uključuje slobodu da promijeni svoju vjeru ili vjerovanje i slobodu da, bilo pojedinačno ili zajedno s drugima, javno ili privatno, očituje vjeru ili vjerovanje učenjem, praktičnim vršenjem, obredima i održavanjem.
+
+## ČLANAK 19.
+
+Svatko ima pravo na slobodu mišljenja i izražavanja; ovo pravo uključuje slobodu mišljenja, bez tuđeg miješanja, a isto tako i traženje, primanje i priopćavanje obavijesti i ideja bilo kojim sredstvima i bez obzira na granice.
+
+## ČLANAK 20.
+
+1. Svatko ima pravo na slobodu mirnog okupljanja i udruživanja.
+2. Nitko ne može biti primoran pripadati nekom udruženju.
+
+## ČLANAK 21.
+
+1. Svatko ima pravo sudjelovati u upravi svoje zemlje, neposredno ili preko slobodno izabranih predstavnika.
+2. Svatko ima pravo na jednak pristup javnim službama u svojoj zemlji.
+3. Volja naroda treba da bude osnova državne vlasti; ta se volja mora izražavati povremenim i slobodnim izborima, uz opće i jednako pravo glasa, tajnim glasovanjem ili odgovarajućim postupcima slobodnog glasovanja.
+
+## ČLANAK 22.
+
+Svatko, kao član društva, ima pravo na socijalno osiguranje i pravo ostvarivati gospodarska, socijalna i kulturna prava potrebna za svoje dostojanstvo i za razvoj svoje osobnosti putem državne pomoći i međunarodne suradnje, a u skladu s organizacijom i sredstvima svake države.
+
+## ČLANAK 23.
+
+1. Svatko ima pravo na rad, na slobodan izbor zaposlenja, na pravične i povoljne uvjete rada i na zaštitu od nezaposlenosti.
+2. Svatko bez razlike ima pravo na jednaku plaću za jednaki rad.
+3. Svatko tko radi ima pravo na pravičnu i povoljnu plaću koja njemu i njegovoj obitelji osigurava čovjeka dostojni opstanak i koja se, po potrebi, dopunjuje drugim sredstvima socijalne zaštite.
+4. Svatko ima pravo radi zaštite svojih interesa osnivati sindikate i stupati u njih.
+
+## ČLANAK 24.
+
+Svatko ima pravo na odmor i dokolicu, uključujući razumno ograničenje radnih sati i periodične plaćene dopuste.
+
+## ČLANAK 25.
+
+1. Svatko ima pravo na životni standard koji odgovara zdravlju i dobrobiti njega samoga i njegove obitelji, uključujući hranu, odjeću, stan i liječničku njegu, te potrebne socijalne usluge, kao i pravo na osiguranje u slučaju nezaposlenosti, bolesti, nesposobnosti, udovištva, starosti ili drugog pomanjkanja sredstava za život u prilikama koje su izvan njegove moći.
+2. Majka i dijete imaju pravo na posebnu skrb i pomoć. Sva djeca, rođena bilo u braku ili izvan njega, moraju uživati istu socijalnu zaštitu.
+
+## ČLANAK 26.
+
+1. Svatko ima pravo na obrazovanje. Obrazovanje mora biti besplatno, bar u osnovnim i nižim stupnjevima. Osnovno obrazovanje mora biti obvezatno. Tehničko i stručno obrazovanje mora biti općenito pristupačno, a više obrazovanje također mora biti pristupačno svima na osnovi sposobnosti.
+2. Obrazovanje mora biti usmjereno punom razvitku ljudske osobe i na učvršćenje poštovanja čovjekovih prava i osnovnih sloboda. Ono mora unapređivati razumijevanje, snošljivost i prijateljstvo među svim narodima, rasnim i vjerskim skupinama i mora unapređivati djelatnost Ujedinjenih naroda na održanju mira.
+3. Roditelji imaju prvenstveno pravo birati vrstu obrazovanja za svoju djecu.
+
+## ČLANAK 27.
+
+1. Svatko ima pravo slobodno sudjelovati u kulturnom životu zajednice, uživati u umjetnosti i sudjelovati u znanstvenom napretku i u njegovim koristima.
+2. Svatko ima pravo na zaštitu moralnih i materijalnih interesa koji proistječu od ma kojeg znanstvenog, književnog ili umjetničkog djela kojemu je autor.
+
+## ČLANAK 28.
+
+Svatko ima pravo na društveni i međunarodni poredak u kojem prava i slobode navedeni u ovoj Deklaraciji mogu biti potpuno ostvareni.
+
+## ČLANAK 29.
+
+1. Svatko ima obveze prema zajednici iz koje je jedino moguće slobodno i puno razvijanje njegove osobnosti.
+2. U izvršavanju svojih prava i sloboda svatko mora biti podvrgnut samo ograničenjima određenima zakonom isključivo radi osiguranja dužnog priznanja i poštovanja prava i sloboda drugih i radi zadovoljenja pravičnih zahtjeva morala, javnog poretka i općeg blagostanja u demokratskom društvu.
+3. Ta prava i slobode ni u kojem se slučaju ne mogu primjenjivati protivno ciljevima i načelima Ujedinjenih naroda.
+
+## ČLANAK 30.
+
+Ništa se u ovoj Deklaraciji ne može tumačiti kao pravo ma koje države, skupine ili osobe da sudjeluje bilo u kojoj djelatnosti ili da čini bilo kakvu radnju usmjerenu uništenju bilo kojih ovdje navedenih prava i sloboda.

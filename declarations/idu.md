@@ -1,0 +1,167 @@
+---
+code: idu
+name: Idoma
+title: OJE KA K’ƐLA KƆDAH NƆCƐ LƐ AA
+bcp47: idu
+iso6393: idu
+direction: ltr
+stage: 4
+latitude: 7.19
+longitude: 8.15
+article_count: 30
+complete: true
+source:
+  package: udhr
+  version: 6.0.0
+  path: declaration/idu.html
+ohchr: idu
+---
+
+# OJE KA K’ƐLA KƆDAH NƆCƐ LƐ AA
+
+## Okwajɛ kɛla.
+
+Higbɛgɔ ma, oje ɔda ni w’ ɔkpɔci mɛml oj’ojinlɛ kɔdah nɔcɛ lɛ abɔ keinu lipu kipɔnu unu w’okwajɛ ko labɔ lei nu mɛml’ɛpɔ ɔkpakpa aa, tik ɔgbɔtu lipu kɛcɛ nya duu ma, higbɛgɔ ma, akwula n mɛml’ okpo dɔdah gɔcɛ iby’ɔda ni wei kunu n mɛmy’ olukpafyu ikpo wajɛ, ɛgɛ ni labɔ b’ocaiɛla jɔcɛ kipu k’ɔtu ɔcɛ bajɛ. Ohigbacɛ ni la lɛcɛ nya ki labahi kolabɔ lei wa ipu gɔkɔ okɛla-uwa, mɛml’okpohilice mɛml’oŋmatajɛ hukpo oya ta ti k’oyɔda tei kabɔ nɛw’acɛ idɔka ŋwule, higb’ɛgɔ ma ɔcɛgba nɛnɛhi kokwɔcɛ bajɛ mɛml’o yɔcɛ tɔha kɔma ko yɔ. Ɔ wei gunu kojɛgɔbu koyɔ ip’ɔinɛ oya mɛml’ɔmpa kunu. hibi kɔha nɛ, United Nations lohili ni tu ohibi k’ɔgbɔtu ko yɔ lɛi ajɛ duu je tajɛ fyɛ ikwɛi ɔdah nɔcɛ lɛ aa, hibi ko jɛgɔbu, mɛml’ojima tig oyei ɔlam k’ɔcɛ go yɔ ipu olabɔ lei nu. Igwu igwu kacɛ lɛlɛwa cɛ ko bɔha yukɔlɔ mɛml’United Nations ohigb ojɛgɔbu kɔdah ab’ɔcɛ ti k’aŋ leiŋ ma kɔcɛ ni wɔda agbanjala.
+
+Baba nya, higbɛgɔ ma, igwu kacɛ lɛb General Assembly, kɔdah ni kl’abɔ kɔcɛ nya kl’ɛcɛ pee ohigb’ɔcɛ duu nɛ kɔ je ɔda ni wikwɛi kɔdah ni yip’abɔ ɔcɛ duu ip’ɛcɛ nya ma, ti gɛgɛ ni jiko oby’ɔ yukɔlɔ lɛi kajɛ ɛikajɛ. Higbɔ ma ɔwuŋkpɛ kɔcɛ duu lɛi kajɛ duu gɔ bi by’ɛla kɔdah kabɔ gɔcɛ nɛ ip’ɔtu gunu, ɛla nya hɔi kɔ yei ip’ɔtu ɔcɛ dɛ nɛbɔ ki yɔ mɛml’ogbɔtu ip’ɛcɛ nɛ ma.
+
+## OKA 1
+
+Ɛgɛ ni modudu acɛ kɛcɛ nya bɛcɛ ɛhehi aa ,hibi ɛgɔ ma acɛ duu jonjilɛ ipu kocɛgba nɔcɛ cɛgba mɛml’ojonjilɛ ipu ɔdah ni yabɔ ɔcɛ nya. Odudu acɛ kwu ŋwule ml’ohili otu mɛml’ocai kɛla jɔcɛ ɔha ni yipu ɔtu ɔcɛ aa, higbɔ ma ɔcɛ higbo yɔda mɛml’ ɔmpa gunu lɛ bɔinɛ nu ma.
+
+## OKA 2
+
+Odudu acɛ ciko wei ko lɔdah k’abɔ ei wa mɛml’olabɔ lei wa ipu ko jɛla gɔdah kɔcɛ aa kla klɛcɛ, g’okɔ ɛyɛyi lɛ b’ɛdɔ gacɛ ma , ina gɔkp’iye kɔcɛ, ɔcɛnya aman k’ɔcɛnyilɔ, ichi ichi oka, ogb’Owoico ɛgba aman utu utu kacɛ, ɛbɛ ni m’ɔcɛ ta kwɛɛ ɔda ɛgɛ nya duu nɛ kɔ ma ko yɔ.
+
+ɔha kunu, okɔ ɛyɛyi duu kɔ yɔ ikwɛi abɔ nikpei ɔcɛ wa kwɛɛ olufyu mɛml’ ojɛgɔbu kɛi ajɛ nɔcɛ ŋma aa, gɔcokwu wɛi ajɛ ni labɔ lei wa, ni kpɔtu ce wa, ɛiajɛ ni labɔ lei wa n, kwɛɛ ipu gɔda ɛyɛyi ɛgɛ nya.
+
+## OKA 3
+
+Ododu acɛ lɔdah ko yei ɛgɛ duu, mɛml’oŋmat’ajɛ h’o bl’bajɛ ta mɛml’ogbikwɛi ɔcɛ dodu ɛgɛ duu jojinlɛ.
+
+## OKA4
+
+Ododu acɛ cika yipu ɔfyɛ oya n, aw’ɔfyɛ mɛml’ɔyi gɔfyɛ ota wei ko yɔ ip’acɛ kɛcɛ nya n, ɛgɛ duu nɔ cokwu lɛ.
+
+## OKA5
+
+Ɔlᴐhi ki ml’ɔcɛ duu ta j’owe aman bɛ k’ogbobajɛ, aman bɛ k’alachi, aman bɛ k’ocai kɛla lɔcɛ fy’ɛgɛ nɛla ɔma lɛ n.
+
+## OKA6
+
+Odudu acɛ wei ko jɔkwɔkwɛi gɛlɛ nya kaini ɛgɛ duu nɔcɛ yɔ, ɔyɔ ip’abɔ k’ɔdah ni yᴐ gbajɛ ɛgɛ nɔ yɔ aa.
+
+## OKA7
+
+Odudu acɛ j’onjilɛ ikpei k’ɔdah,ɛgᴐ ma nɔdah ciko gb’ikwɛi ɔcɛ duu nɛ j ‘onjilɛ aa. Ɔdah ciko wikwɛi ɔcɛ ohigb’ɔda nᴐcɛ ya ni wei kᴐda nɔdah ka n aman ko y’ɔda ni yᴐ bu tɛla k’ɔdah, aman bɛ k’oyᴐda bei kɔdah ni yab’ɔcɛ nya .
+
+## OKA8
+
+Ohigb’iko nɔcɛ duu ibɛi k’ɔdah ni yip’abɔ-nu nɔdah kɛi ajɛ-nu je ta lᴐ aa , aw’okɛpɔ k’ɔdah cika cai kɛla jᴐcɛ ɛgᴐ ma.
+
+## OKA9
+
+Odudu acɛ duu iciko bei kipu kinu-agba aman bɛ okw’ɔcɛ dudu igbihi kɛfyɛ ohɛ n, cai ɛci nɔcɛ ᴐma iyɛ bei k’ɔdah.
+
+## OKA 10
+
+Odudu acɛ cika j’ojinlɛ lɛbɛ k’aw okɛpɔ ipu k’ɛbɔ ɔkpakpa mɛml’ɛbɔ ni lojeikpei n oka tig ko kɛpɔ k’ɔcɛ duu kl’ɛcɛ pee, Ohigb’ɔdah ni yabɔ kunu nᴐ je hai tig k’ɛpɔ gɔda bᴐbi ɛgɛ dudu ni kwɔcɛ ɛpɔ kunu.
+
+## OKA 11
+
+1. Ɔcɛ duu ni kwɛpɔ hibi gɔda olukpafyu ikpo ɛgɛ duu nɛ, ilɛp’mbi ɛci naw’ɔkɛpɔ lɛpɔ kunu ka ei pee ip’ɔkpakpa mɛml’ɛgɛ duu nɔdah lɛ, nacɛ okɛpᴐ kunu kw’ɛga je lᴐ kᴐ-nu ka ip’ᴐda nᴐcɛ ᴐma ya.
+2. Ɔcɛ duu I ciko lɛp’ɛmbi ohigb’ɔda duu nɔdah kɛi gajɛ nɔ la aa ma ma ta tɔ n liko nɔcɛ ɔma yɔda lɔ. aman bɛ kofy’ ɛfye fyowu kine nɔcɛ kpo aa janu fy’ɛgɛ abᴐ nɔdah myla ta go fajanu liko nɔcɛ kpine aa.
+
+## OKA 12
+
+Odudu acɛ cika w’ohyl’ɛta jacɛ ɔmpa kuwa ki labɔ lɔda ot’otu nᴐcɛ iya n, aman bɛ k’ip’ɔnu kuwa n, ɔl’uwa n, aman bɛ k’okpo dɔcɛ ikwɛi gojima-nu mɛml’ojima n. Ɔdah cika gbɛi ɔcɛ duu kɔcɛ ɔha kɔ ma ko labɔ ip’ɔda ototu gɔc’ɔmpa-nu ɛgɛ duu.
+
+## OKA 13
+
+1. Odudu acɛ lɔdah kabɔ kei nɔ ki yau gɛbɛ duu nya ni y’ɔtu-nu, nɔ ke la ɛgɛ duu ni h’ɔtu ip’ɛi ajɛ nɔ la ᴐma.
+2. Odudu acɛ lɔdah ko nyɛ ŋmɛi gajɛ duu nɔ la gɛi ajɛ ᴐmpa, gɔ cokwu wɛi gajɛ ni m’ɔ ta, ɛgɔ ma nᴐ lɔdah ko chigbihu wa iko duu ni yᴐtu-nu gɛ.
+
+## OKA14
+
+1. Ɔcɛ duu lɔdah go dɔka ti go mabahi lɛi gajɛ ɔha, ipu gowe oma n ti gokpodɔcɛ n.
+2. &1
+
+## OKA 15
+
+1. Odudu acɛ lɔdah ko wɔi kajɛ.
+2. Ɔcɛ duu cika gw’ɔwɛ kopyɔi kajɛ tɔcɛ ɔmpa kunu n, aman bɛ ko gw’ɔwɛ t’opyɔdah kɔi kajɛ kunu abɔ ŋmɛi gajɛ eye gɔmpa n.
+
+## OKA 16
+
+1. Acɛnyilɔ mɛml’Achɛnya ni jejinkpa mɛ, ɛdɔ kacɛ, ɛi kajɛ, aman bɛ k’ɛdɔ gowoico nigblɛgba icika gwɔwɛ to lei wa ɔba mɛml’ɔnya n aman bɛ ko h’ipɔnu kuwa n. Iciko lɔdah jojinlɛ ipu okpei-wa bɔha mɛml’okɔ hɔha ta kuwa.
+2. Ɔba mɛml’Ɔnya olɛ cika wɔda nɔcɛ duu ibei gipu gunu ipu gotila n cai ipu ko mɔtu gei wa cici ti go lekwu kei wa.
+3. Ipɔnu kᴐcɛ w’okwajɛ go hɛ igwu igwu gacɛ ma. Hibi ɛgᴐ ma ɔwᴐda ni cɛlɛgba kɛi kajɛ odudu kᴐ kwula mɛml’ipɔnu.
+
+## OKA 17
+
+1. Ɔcɛ duu nɛ lɔdah abɔ kei nu lɔdah ko labenu gei-nu amaa bɛ nɔ ke lᴐfyu ba tɔha yɔda kagbenu-nu mɛml’ɔcɛ ɔmpa.
+2. Okwɔcɛ bajɛ ɛbɛ ko lɔda kagbenu olɛ nya, kᴐ yɔ n.
+
+## OKA 18
+
+Odudu acɛ lɔdah ko lohili kɔda ɛgɛ ni h’ɔtu, aman bɛ k’Ocaikɛla jɔcɛ ni la lipu kɔtu kɔcɛ, ti kɛdɔ kOwiocco nɔ igbɛgba aa; ipu kɔdah nɔcɛ lɛ nya, ɔcɛ lɔfyu nyɛ ŋmipu gɛgba nɔ yᴐ gb’oco eye gipu g’ɛgɛ duu nɔcɛ ma, nᴐ ke h’ɔtu, mɛml’ojowoico ogbɛgba kunu kl’ɛcɛ pee ɛgɛ duu nɛ.
+
+## OKA 19
+
+Ɔcɛ duu lɔdah gɔmɔwɛ gɔda abɔ ni yɔtu gunu ti go jɔwɛ gɛla ka abɔ ni yɔtu gunu kpakpa; ɔmɛwɛ gɛla abɔ ni h’ɔcɛ ɔtu, gɔcɛ ɔha gɔlabɔ lɔ n kwɛɛ ja gei nu bɔ n, ti go j’ɔwɛ gɛla lɔ ka tɛcɛ pee jacɛ lipu ginu ɛbɛ okɛla tɛcɛ abɔ duu nɔcɛ lɔ cokwu lɛ.
+
+## OKA 20
+
+1. Odudu acɛ lɔdah gojlei mɛml’acɛ duu ipu kɔgbɔtu tig ko by’atɔha mɛmyl’acɛ ɔha duu.
+2. Ɔcɛ duu gɔ yɔcɛ ɔmpa otila k’ɔwɛ lᴐwa ᴐwa aman bɛ k’opyatɔha kacɛ duu nɛ n.
+
+## OKA 21
+
+1. Odudu acɛ lɔdah ko labɔ lipu gigɔmɛnti kɛi gajɛ-nu, ɔlɔfyu nyɛga kɔkwɛi kacɛ kunu aman bɛ k’ofɔcɛ ni kwɛi gunu lipu gigɔmɛnti.
+2. Odudu acɛ lɔdah jojinlɛ ko yɛkwu mɛml’ɔda geniye duu.
+3. Ɔda ni wokwajɛ kɔdah gigɔmɛnti cika wɔda nɛwa kacɛ iyᴐ dɔka; ɛnya ka itei pee fyɛ lipu kabɔ obɔkpa nicaka yɔ iko iko gunu, ohigb’ɛwa gacɛ gɔ f’ɔcɛ ni kwɛi kuwa lipu gigɔmɛnti ipu kabɔ obɔkpa ni l’uji n.
+
+## OKA 22
+
+Odudu acɛ ni wᴐi kajɛ ɛgɛ nɔ la, lɔdah ko gbɛi-wa ip’ola kuwa mɛml’ obɛbɛ kakanya nɛi kajɛ ɛi-ajɛ ti k’igwu igwu kace cika ya ohigb’ɔcɛ ko je ɔkpɔci kɔdah kunu nɔ lɛ ipu koya jɛ gɔbu kɔcɛ mɛml’abɔ nɔcɛ yᴐ yoyei lɛ ni ki lɔcɛ py’ɔcɛ kejiji n, kɛnɛbɛcɛ kɔcɛ gɔ yᴐ jɛ tip’ejinkpa.
+
+## OKA 23
+
+1. Odudu acɛ lɔdah ko y’ukɔlɔ duu, aman bɛ oj’ɛdɔ kukɔlɔ ni h’ɔtu, nɔ iya ni ke gbiye nɛɛ gila dɛ kɔ ya ti gɔdah ni gbɔcɛ holukɔlɔ no ta.
+2. Odudu acɛ duu ni yukɔlɔ igwu eyekponu lɔdah ko my’ule ɛgɛ ekponu cai oyoyɔ gukɔlɔ guwa kᴐ yɔ gbɔbu dɛ nule kuwa y’oyɔ duu ma.
+3. Odudu acɛ ni yukɔlɔ,lɔdah hibi kɔ lɔda ni lɔfyu bɔya mɛml’ipɔnu kunu cɛ janu aman bɛ k’ipɔnu kunu hai tei gabɔ nipɔnu gɔcɛ ciko lɛ ipu gojima.
+4. Odudu acɛ lɔdah ko h’utu kɔyi ota aman ko wɛ lipu kopyatɔha ga w’otɔyi ohigb’ile nɔ gi lɛ aa.
+
+## OKA 24
+
+Odudu acɛ lɔdah ko lɔmlɛnyɔ ip’ukɔlɔ duu nɔ iya, aman bɛ k’ukɔlɔ duu nɔcɛ iya cika liko gunu aman bɛ k’auwa nɔcɛ iyukɔlɔ duu nya ciko lɛji. Iko Iko omɛnyɔ yɔ ipu gukɔlɔ duu mɛml’ule oca.
+
+## OKA 25
+
+1. Odudu acɛ lɔdah ko l’oyei ɔlam ni cika jɔ lafyiya lɔcɛ mɛml’ogbɛhi gɛnɛbɛcɛ kɔcɛ ti k’ipɔnu kunu, ɛg’ɔda lɛ b’odule, ɔda oliye, ɛgɛ ojɛyi nyletu aman bɛ k’ɔlɛ ti kojikpei tɔkp’iye kᴐcɛ, okplici kɔcɛ ti gɔda ohoi ni cɛgba.
+2. Ɛnɛ omɔi tig ɔi wei gɔcɛ duu go jei tuwa hɔhɔi ti go bi yuwa ɔtabɔ. Ɔi duu nɛɛ kwɔha ni ma lipu golekwu gOco aman kwɛɛ olekw gOco no cika lojei tuwa ti go kwula huwa jojinlɛ.
+
+## OKA 26
+
+1. Ɔcɛ duu lɔdah go ginɔkpa ga jɔkpa. Ɔkpa oje cika wa gɛhi, ɔwɔda nɔ nyɛ fyɛ gba okwajɛ gɔkpa oje cika wagɛhi gɔ ca wotila gɔcɛ duu gɔ lokwajɛ gɔkpa oje ya ipu ginɔkpa. Ɔkpa oje gɔbu cika wota jɔcɛ duu ni dɔka go je gɔbu tei gabɔ nowu gunu jɔ.
+2. Ɔkpa oje ciko wɔda ni cɛ jɔce jɛ gɔbu ipu ko jlakwɛi gɛnɛbɛcɛ ɔcɛ mɛml’o jukpafyu jɔdah nɔcɛ lɛ abɔ kei-nu nya ti go labɔ lei-ŋ nɔcɛ lɛ aa. Ɔkpa oje ca I cɛ lo jɛi kɔda jɛ gɔbu, oŋmabɔ hɛla ta mɛml’oyɛma ti acɛ ɔmpa, aman bɛ k’ɛdɔ gacɛ ogbowoico ɔmpa, ɔ ke i cɛ jukɔlɔ g’United Nations ohigb’ɔgbɔtu ko yɔ ipu gɛcɛ nya jɛ gɔbu.
+3. Aw’ada lɔdah gi jɛdɔ gɔkpa oje ni wei kai-wa ni ke lɔhii ko je luwa.
+
+## OKA 27
+
+1. Odudu acɛ lɔdah ko lab’ipu ɔda atɔ gɛi kajɛ duu nɔ la, ɔwɔda nɔ h’ɔtu, gɔdah lile gukɔlɔ gabɔ duu nacɛ gajɛ lɔ byi hai ya.
+2. Odudu acɛ lɔdah ko lei kw’ajɛ aman bɛ ipu gukᴐl’abɔ duu, kw’ije nɔcɛ wo, kw’ɔkpa nɔcɛ ta, ɔcɛ ni w’ondu-nu aa lɔdah higbɛi k’ohili ni yipu kunu tig ɔda ni bi yekwu.
+
+## OKA 28
+
+Ei oŋla yɔ jɔcɛ duu, ipu gɛgɛ nya nɛla kɔdah yi yabɔ kɔcɛ ti go labɔ lei-ŋ kɔcɛ ni yᴐ ka lipu kɔkpa nya ilɛi kila ip’acɛ kɛcɛ nya aa.
+
+## OKA 29
+
+1. Odudu acɛ ciko lukɔlɔ eye aman bɛ fy’oye nɔ bi abᴐ yᴐ ipu’ɔlɛ nɔ la, hibi ipu goya lɛa, dɛ no labɔ lei-ŋ kɔcɛ mɛml’ojɛ tijijinkpa gɛnɛbɛcɛ ɔcɛ ilɛi gila ma.
+2. Ipu kɔdah kabɔ-ɔcɛ duu nɛ nɔ bi yᴐ yɔda duu aa, gɔ bi ya tei kabɔ nɔdah kɛi kajɛ myla ta ko ya, ohigb’ɔgbɔtu mɛml’ojɛgɔbu gɔ yɛi gajɛ duu ti go ca cɛ j’olabɔ lei-ŋ gɔcɛ ti gɔdah gabɔ gɔcɛ lojima.
+3. Ipu gɔdah gabɔ gɔcɛ ni ka nɛ ti g’olabɔ lei-ŋ gɔcɛ ni ka nɛ, ɔcɛ duu gɔ byɔ yɔkɔlɔ ni gi by’ɔgbɔtu wajɛ n no.
+
+## OKA 30
+
+Ɔlɔdah duu ipu gɔdah gabɔni je ka lipu gɔkpa cɛ jɔcɛ duu n kwɛɛ igwu igwu gacɛ duu n go bei gipu gɔda oya duu ni by’ɔda obya wajɛ, aman gɔ byɔda duu n ikwɛi gɔdah gabɔ gei nu n.

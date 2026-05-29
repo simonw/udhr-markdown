@@ -1,0 +1,181 @@
+---
+code: vep
+name: Veps
+title: Mehen oiktuziden ühthine deklaracii
+bcp47: vep
+iso6393: vep
+direction: ltr
+stage: 4
+latitude: 60.34
+longitude: 34.79
+article_count: 30
+complete: true
+source:
+  package: udhr
+  version: 6.0.0
+  path: declaration/vep.html
+ohchr: vep
+---
+
+# Mehen oiktuziden ühthine deklaracii
+
+## Preambul
+
+Ottes homaitusehe, miše mez’kundan kaikiden ühtnikoiden arvokahuden i ühthižiden oiktuziden tundustamine oma valdan, oiktuden, mirun alandusen; i
+
+ottes homaitusehe, miše hondostamine i kacmatomuz’ mehen oiktuzihe tob varvaroiden tegoid, kudambad käregoitas mez’kundan mel’tundod, i mehiden suren tahton i takaindan om mugoman mirun tegend, kudambas mehil linneb sanavald, kacmusiden vald, ei linne varaidust i mairišt; i
+
+ottes homaitusehe, miše tarbiž mehiden oiktuded kaita zakonan valdal, sen täht, miše mehele ei pidaiži lopuks libuda tiranijan i ahthištusen vasthapäi; i
+
+ottes homaitusehe, miše tarbiž abutada sebrmeližiden kosketusiden kehitoitusele rahvahiden keskes; i
+
+ottes homaitusehe, miše Ühthižrahvahiže mülüjad rahvahad vahvištoitiba käskkirjas ičeze uskondan mehiden päoiktuzihe, mehen personan arvokahudehe i mužikoiden da naižiden tazooiktudehe i pätiba abutada socialižele progressale i elon oloiden paremboitusele oldes surembas valdas; i
+
+ottes homaitusehe, miše valdkundad-ühtnikad toivotiba abutada ühtes Ühthižrahvazkundanke ühthižes arvostandas i mehen oiktuziden i pävaldoiden kaičendas, tegendas; i
+
+ottes homaitusehe, miše neniden oiktuziden ühthine el’genduz om lujas tärged niid täudes pidämižes,
+
+Sur’ Assamblei,
+
+ezitab necen mehen oiktuziden ühthižen deklaracijan kut tegend, kaikile rahvahile i valdkundoile, miše kaikutte mez’ i kaikutte ühthižkundan azjmehišt, kaiken pidädes meles necen deklaracijan, abutaižiba tedotelendal i opendusel arvostada nenid oiktuzid i valdoid i tegižiba rahvahaližil i keskrahvahaližil progressivižil tegoil ühthišt i effektivišt arvostust i pidäižiba kut Ühthižrahvazkundan valdoiden-ühtnikoiden, muga i toižiden tahoiden rahvahiden keskes, kudambad oma niiden jurisdikcijan al.
+
+## 1. kirjutez
+
+Kaik mehed sünduba joudajin i kohtaižin, ühtejiččin ičeze arvokahudes i oiktusiš. Heile om anttud mel’ i huiktusentund i heile tariž kožuda toine toiženke kut vel’l’kundad.
+
+## 2. kirjutez
+
+Tariž, miše jogahižel mehel oližiba kaik oiktuded i valdad, miččed oma nimitadud neciš deklaracijas, kacmata sihe mitte om mehen rass, hibjan muju, pol’, kel’, uskond, miččed oma politižed vai toižed kacmused, mitte om rahvahuz’ vai socialine sündund, mitte om elomišton, soslovijan vai toižed olod.
+
+Paiči sidä, ei sa tehta nimittušt erod man vai sijan politižen, oiktuden vai rahvazkeskeižen statusan pohjal, kuna mez’ mülüb, ripmata sišpäi om-ik nece sija ripmatoi, pidetas-ik hol’t siš, ei ičenaine vai se kut-se toižin om vähetud ičenaižudes.
+
+## 3. kirjutez
+
+Jogahižel mehel om oiktuz’ eloho, valdaha i personaližehe koskmatomudehe.
+
+## 4. kirjutez
+
+Nikeda ei sa pidäda orjan vai valdmatomas olos, orjanpidänd i orjanmönd om kel’tüd kaikiš formiš.
+
+## 5. kirjutez
+
+Nikeda ei sa kovasüdaimelišesti mokita, kovin ustavzoitta, tehta mugomid tegoid, kudambad alenzoitaižiba hänen arvokahuden.
+
+## 6. kirjutez
+
+Jogahižel mehel om kaikjal oiktuz’ sihe, miše händast pidäižihe personan arvostuses.
+
+## 7. kirjutez
+
+Kaik mehed oma ühtenarvoižed zakonan edes i heil om oiktuz’ eroita zakonan kaičendaha. Kaikil mehil om oiktuz’ ühtejiččehe kaičendaha miččen taht diskriminacijaspäi, kudamb keskustab necile Deklaracijale, miččen taht rehkandaspäi diskriminacijaha.
+
+## 8. kirjutez
+
+Jogahižel mehel om oiktuz’ effektivižehe hüvästamižehe händast oiktuziš kompetentižiden rahvahaližiden sudiden pätusel siloi, konz hänen konstitucijal vai zakonal anttud päoiktuded om keskustadud.
+
+## 9. kirjutez
+
+Nikeda ei sa melenvaldal türmata, pidätada vai küksta, ajada manpagoho.
+
+## 10. kirjutez
+
+Jogahižel mehel, miše märita ičeze oiktuzid i velguzid i sada todištust ezitadud hänele kriminaližes värituses, om oiktuz’ hänen azjan tarkištelendaha täuden ühtenarvokahuden pohjal ripmatomal objektivižel sudal avoin, pidädes oiktuden küzuid.
+
+## 11. kirjutez
+
+1. Pahas tegos väritud mehel om oiktuz’ lugetas värutomaks sihesai, kuni hänen vär ei linne tedištadud zakonan jäl’gendusel avoin sudan tarkištelusel, konz hänel oma kaik voimused kaičendan täht.
+2. Nikeda ei sa sudida pahas tegos, tehtud vai tehmatomudes, kudamb ei olend pahan tegon rahvahaližiden zakonoiden mödhe vai rahvazkeskeižen oiktuden mödhe. Mugažo ei voi olda ustavzoitand kovemb, mi se, kudamb voiži olda sen aigan, konz oli tehtud paha tego.
+
+## 12. kirjutez
+
+Ei sa melenvaldal ličtas nikenen personaližehe eloho i kanzan eloho, hänen kodi, počtoigendused i hänen arvostuz oma koskmatomad. Jogahižel om oiktuz’ zakonan kaičendaha mugoižes ličendaspäi i kosketandaspäi.
+
+## 13. kirjutez
+
+1. Jogahižel mehel om oiktuz’ sirdeltas joudajas i valita ičeleze eländsija kaikuččen valdkundan südäimes.
+2. Jogahižel om oiktuz’ lähtta maspäi, mugažo ičeze maspäi, i pörttas ičeze maha.
+
+## 14. kirjutez
+
+1. Jogahižel mehel om oiktuz’ ectä kaičuzsija mokičijoišpäi toižiš maiš i olda sigä.
+2. Necil oiktudel ei voi olda väged, konz küzünd om todeks ei politižes pahas tegos vai Ühthižrahvazkundan pätegendoid i principoid vastkaroičijas tegos.
+
+## 15. kirjutez
+
+1. Jogahižel mehel om oiktuz’ rahvahudehe, olda valdkundan rahvahanikan.
+2. Nikenel ei sa melenvaldal anastada rahvahut vai oiktut vajehtada rahvahut.
+
+## 16. kirjutez
+
+1. Täuz’igäižil mužikoil i naižil om oiktuz’ naida, mända mehele i tehta kanz kacmata rassan, rahvahuden vai uskondan eroihe. Heil oma ühtejiččed oiktuded naindaha i mehele mänendaha, olendaha i erigandusen jäl’ghe.
+2. Naida i mända mehele voib vaiše molembiden poliden täudenke i joudajanke tahtonke.
+3. Kanz om ühthižkundan londuseline augonpanii jouk i sil om oiktuz’ ühthižkundan i valdkundan kaičendaha.
+
+## 17. kirjutez
+
+1. Jogahižel mehel om oiktuz’ pidäda elomišton üks’näze vai toižidenke.
+2. Nikenel ei sa melenvaldal anastada hänen elomištod.
+
+## 18. kirjutez
+
+Jogahižel mehel om meletusen, mel’tundon i uskondan vald, neche oiktudehe mülüb vald uskondan vai kacmusiden vajehtamižehe, mugažo vald uskondan vai kacmusiden pidämaha üks’näze i mugažo ühtes toižidenke, kaikiden nähtes vai üks’näze opendamal, uskondradol, uskondan i ritualižiš tegoiš.
+
+## 19. kirjutez
+
+Jogahižel mehel om oiktuz’ kacmusiden valdha i niiden ezitamižehe, neche mülüb oiktuz’ telustamata pidäda ičeze mel’pidod, mugažo oiktuz’ ripumata valdkundan röunoišpäi ectä, sada i levitada tedoid i meletusid kaikiden maneroiden abul.
+
+## 20. kirjutez
+
+1. Jogahižel om oiktuz’ kožmuseližiden suimiden i ühtenzoitusiden kogomuzvaldaha.
+2. Nikeda ei sa käskta ühtneda miččehe-ni ühtenzoitusehe.
+
+## 21. kirjutez
+
+1. Jogahižel mehel om oiktuz’ ühtneda ičeze man ohjandamižehe kohtha vai valitud ezitajiden kal’t.
+2. Jogahižel om oiktuz’ päzuda ičeze man valdkundaližele radole.
+3. Rahvahan taht om valdkundmehišton alandusen; nece taht tarbiž ezitada aigkeskustoin tehtud oiktoiš, ei värenzoitusiš valičusiš, kudambiš kaikil om ühthine i ühtejitte änenoiktuz’ peitänestamižen abul vai toižiden änestamižvaldan pidijoiden maneroiden abul.
+
+## 22. kirjutez
+
+Jogahižel mehel, kut ühthižkundan ühtnikal, om oiktuz’ socialižehe holištoho, mugažo oiktuz’ rahvahaližen tegoiden i keskrahvahaližen ühthižradon kal’t, ottes homaitusehe kaikuččen valdkundan järgenduz i varad, antta hänen mez’arvokahudele i personan joudajale kehitoitusele tarbhaižid ekonomižid, socialižid i kul’turižid oiktuzid.
+
+## 23. kirjutez
+
+1. Jogahižel om oiktuz’ radoho, radsijan joudajaha valičusehe, oiktoihe melevuzihe radon oloihe, mugažo kaičendaha radotomudespäi.
+2. Jogahižel mehel om oiktuz’ miččeta-ni alenzoituseta sada ühtejiččen paukan ühtejiččes rados.
+3. Jogahižel radajal mehel om oiktuz’ oiktaha i täudubaha paukaha, kudamb andab hänele i hänen kanzale mehen arvoižen olendan i kudamban, ku tarbiž, täutaba toižed socialižen holišton manerad.
+4. Jogahižel mehel om oiktuz’ tehta eloradoližid ühtištusid i mülüda niihe ičeze azjoid polestamha.
+
+## 24. kirjutez
+
+Jogahižel mehel om oiktuz’ lebuhu i joudajaha aigaha, radpäivän melevaha röunatusehe i makstud märaigaližehe lebupästusehe.
+
+## 25. kirjutez
+
+1. Jogahižel mehel om oiktuz’ elon korktusehe, kudambaha mülüb sönd, sobad, kodi, tervhuz’holitand i pidab socialine holituz, mitte tariž hänen i hänen kanzan tervhuden i hüvinvoindan täht. Jogahižel om oiktuz’ holištoho mugomas azjas kut radotomuz’, läžund, invalidan olend, lesken olend, vanhuden tulend vai toižiš hänen tahtospäi ripumatomiš radvoindan, elovaroiden kadotusen azjoiš.
+2. Mamoil i lapsil om oiktuz’ erasehe holištoho i abuhu. Kaikil lapsil, oma-ik hö sündnuded naidud kanzas vai ei, oma ühtejiččed socialižed holituzoiktuded.
+
+## 26. kirjutez
+
+1. Jogahižel mehel om oiktuz’ sada opendust. Opendusele, kaikense augotižopendusele i keskopendusele tarbiž olda maksutoman. Augotižopendusele tarbiž olda tarbhaižen. Tehnižele i tedomahtoižele opendusele tarbiž olda kaikile kožujan, üläopendusele tarbiž olda ühtejiččin avoin kaikile heiden mahtoiden mödhe.
+2. Opendusele tarbiž olda oigetud mehen personaližuden kehitoitamižehe, mugažo mehen oiktuziden i pävaldoiden arvostandan vahvištamižehe. Opendusele tarbiž abutada kesknäižele el’gendusele, tirpandamižele i sebrastusele kaikiden rahvahiden, rass- i uskondgruppiden keskes, mugažo abutada Ühthižrahvazkundan kožmusen pidändan tegoiš.
+3. Vanhembil om ezmäisijaine oiktuz’ valita ičeze lapsile opendusen ladud.
+
+## 27. kirjutez
+
+1. Jogahižel mehel om oiktuz’ joudajas ühtneda ühthižkundan kul’turižehe eloho, sada ihastust taidehes, mugažo ühtneda tedoprogressaha i kävutada sen satusid.
+2. Jogahižel mehel om oiktuz’ hänen moraližiden azjoiden i materialižiden satusiden kaičendaha, kudambad oma hänen tedo-, literatur- vai taidehtöiden satusen i hän om niiden tegii.
+
+## 28. kirjutez
+
+Jogahižel mehel om oiktuz’ mugoižehe socialižehe i rahvazkeskeižehe järgendusehe, konz neciš deklaracijas ezitadud oiktuded i valdad voiba täudes todenzoittas.
+
+## 29. kirjutez
+
+1. Jogahižel mehel om velguzid ühthižkundan edes, vaiše siš voib olda hänen personan joudai i täuz’ kehitoituz.
+2. Kävutades ičeze oiktuzid i valdoid jogahižel mehel voiba olda vaiše mugomad röunatused, kudambad oma vahvištadud zakonan mödhe, miše tundustada i arvostada toižiden oiktuded i valdad, mugažo moralin, kundaližen järgendusen i üleižen hüvinvoindan demokratižes ühthižkundas.
+3. Nenid oiktuzid i valdoid nikonz ei sa kävutada Ühthižrahvazkundan pätegendoiden i principoiden vastkaroites.
+
+## 30. kirjutez
+
+Nimidä neciš deklaracijas ei sa el’geta muga, miše mitte-ni valdkund, mehiden grupp vai üks’ mez’ voib oiktuziden pohjal tehta mugomid tegoid, kudambad om oigetud heitmaha ezitadud neciš deklaracijas oiktuzid i valdoid.
